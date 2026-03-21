@@ -1,2 +1,2 @@
 # systemcobro-updates
-updates system
+Repositorio público de artefactos de actualización para SystemCobro.
