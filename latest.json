@@ -1,11 +1,11 @@
 {
-  "version": "0.1.37",
+  "version": "0.1.41",
   "notes": "Vea los cambios en el registro de cambios.",
-  "pub_date": "2026-03-26T21:13:12+00:00",
+  "pub_date": "2026-03-26T22:03:16+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSLys0RmVVbVo0c2h5bjJsV0tqOENPd3RDcUlzbkgvcGkyVFQwdnlCRmNFMHlUYnpQcU9vYk1jU1J0VS9nVUpWNU0zaUdlTWYvNjVkQ1ZwU1dTbWFNMVBOejFPQVRTRUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTU5NTkwCWZpbGU6c3lzdGVtY29icm9fMC4xLjM3X3g2NC1zZXR1cC5leGUKaUs0bzZlUW9CekNLZTVQMnpzem9EWTk5eVdsZVV1SUp1MEcvRTJiNDRZS2pZa2pWU2J6aWpEOUFsNUp0TzRCenE2NHhJcTkyYmIxQzl1RXpTd05SQkE9PQo=",
-      "url": "https://izumi99088.github.io/systemcobro-updates\r\n/systemcobro_0.1.37_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSLys0RmVVbVo0c3FzallsTlRBM1Bnc3Y3YnE2OWI4d3o0NjNSTVd6ak9DUm9pSzhrZ2ZtVzhVTWx6Z0lqcGRqSFRVOWtqS1dlYlBoUk5Bd3dEdkxleUVUczdrZE5XK2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTYyNTk0CWZpbGU6c3lzdGVtY29icm9fMC4xLjQxX3g2NC1zZXR1cC5leGUKN3VCNTBuWmFzc1RDS0xrTTZPSkhEY25GTmNVNjdkdURPZXNjcmdSc0tGM3lJdWZleHpIQ1YyRi9FMXl4UVlwOG10YzdZMVZxYkpTU3U1dXZRZXlPQ3c9PQo=",
+      "url": "https://izumi99088.github.io/systemcobro-updates\r\n/systemcobro_0.1.41_x64-setup.exe"
     }
   }
 }
